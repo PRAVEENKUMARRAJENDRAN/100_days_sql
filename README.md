@@ -1,1 +1,1 @@
-# 100_days_sql
+# Advanced Sql Server
